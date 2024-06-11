@@ -12,7 +12,7 @@ Welcome to the 3D Maze Game using Raycasting! This project is a classic first-pe
 
 ## Screenshot
 
-()
+(https://github.com/SaidLamghari/portfolio_project_MazeALX/blob/main/SaidLAMGHARI.png)
 
 ## Installation
 
